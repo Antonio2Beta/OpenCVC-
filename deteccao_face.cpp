@@ -3,7 +3,7 @@
 	Disciplina: Programação Estruturada	
 	Projeto: Detecção de Faces
 	Biblioteca: OpenCV
-	Autores:Antonio Vicente
+	Autores:	Antonio Vicente
 			Francisco Marcos
 			Joyce Claine
 			Willyam Stepham
