@@ -59,7 +59,6 @@ int main(){
 	
 	putText(captura,n_faces,Point(15,65),FONT_HERSHEY_SIMPLEX,1,(255,255,255),2,LINE_AA);
 	
-	
 	namedWindow("Detecção", WINDOW_AUTOSIZE);
 	imshow("Detecção", captura);
 	
